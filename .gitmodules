@@ -1,3 +1,0 @@
-[submodule "java-cqrs-event-sourcing"]
-	path = java-cqrs-event-sourcing
-	url = https://github.com/obarbier/java-cqrs-event-sourcing.git
